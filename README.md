@@ -1,7 +1,7 @@
 ## 📚 A propos de moi:
 - 🔭 Je travail actuellement sur **[Cerberus](https://discord.gg/W73pENDXAH)**
 
-- 📫 Comment me contacter ? ![Discord](https://img.shields.io/badge/%3C7empest15%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+- 📫 Comment me contacter ? ![Discord](https://img.shields.io/badge/7empest15-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 💻 Langages et outils:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,11 +23,6 @@
       <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7empest15&theme=github_dark&langs_count=8&layout=compact&enable_animations=true&border_color=30363D"/>
     </td>
   </tr>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=7empest15&layout=compact&theme=github_dark&enable_animations=true&border_color=30363D&custom_title=WakaTime+Last+7+Days"
-         alt="Wakatime Stats"/>
 </div>
 
 
