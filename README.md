@@ -1,7 +1,7 @@
 ## 📚 A propos de moi:
 - 🔭 Je travail actuellement sur **[Cerberus](https://discord.gg/W73pENDXAH)**
 
-- 📫 Comment me contacter ? ![Discord](https://img.shields.io/badge/7empest15#7997-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+- 📫 Comment me contacter ? 7empest15#7997
 
 ## 💻 Langages et outils:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
