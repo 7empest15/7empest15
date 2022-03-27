@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=7empest15&langs_count=5&theme=github_dark)]()
 
 ## 📈 Mes stats:
 
@@ -20,11 +21,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=7empest15&count_private=true&show_icons=true&theme=github_dark&layout=compact&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
     </td>
       <td align="center" width="50%" style="margin-right: 40px;">
-      
-    </td>
   </tr>
 </div>
-[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=7empest15&langs_count=5&theme=github_dark)]()
+
 
 
 
