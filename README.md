@@ -20,7 +20,7 @@
     <td align="center" width="50%" style="margin: auto 0">
       <img src="https://github-readme-stats.vercel.app/api?username=7empest15&count_private=true&show_icons=true&theme=github_dark&layout=compact&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
     
-     <td align="center" width="50%" style="margin-right: 40px;">
+     
   </tr>
 </div>
 
