@@ -20,10 +20,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=7empest15&count_private=true&show_icons=true&theme=github_dark&layout=compact&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
     </td>
       <td align="center" width="50%" style="margin-right: 40px;">
-      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7empest15&theme=github_dark&langs_count=8&layout=compact&enable_animations=true&border_color=30363D"/>
+      
     </td>
   </tr>
 </div>
+[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=7empest15&langs_count=5&theme=github_dark)]()
 
 
 
