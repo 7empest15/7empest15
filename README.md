@@ -14,17 +14,9 @@
 
 
 ## 📈 Mes stats:
+![7empest15's GitHub stats](https://github-readme-stats.vercel.app/api?username=7empest15&show_icons=true&theme=github_dark)
 
-<div align="center">
-  <tr style="display:flex; justify-content: space-around">
-    <td align="center" width="50%" style="margin: auto 0">
-      <img src="https://github-readme-stats.vercel.app/api?username=7empest15&count_private=true&show_icons=true&theme=github_dark&layout=compact&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
-    
-     
-  </tr>
-</div>
-
-![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=7empest15&langs_count=5&theme=github_dark)
+[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=7empest15&langs_count=5&theme=github_dark)]()
 
 
 
