@@ -1,5 +1,4 @@
 ## 📚 A propos de moi:
-- 🔭 Je travail actuellement sur **[Cerberus](https://discord.gg/W73pENDXAH)**
 
 - 📫 Comment me contacter ? 7empest15#7997
 
