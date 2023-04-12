@@ -8,6 +8,7 @@
 
 ## Compétences
   ![](https://img.shields.io/badge/-FiveM-orange)
+  ![](https://img.shields.io/badge/-Discord-blue)
 
 
 
