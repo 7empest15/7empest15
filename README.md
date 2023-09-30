@@ -15,11 +15,11 @@
   </h1>
   
 </div>
-
+---
 ### :woman_technologist: About Me :
 I am a young french developer
 
-    - :seedling: You can look my skills on my profile.
+    - 🌱 You can look my skills on my profile.
     
     - 📫You can reach me on discord : 7empest15
 
