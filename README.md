@@ -17,9 +17,11 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a young french developer\n
-    :seedling: You can look my skills on my profile.\n
-    📫You can reach me on discord : 7empest15\n
+I am a young french developer
+
+    - :seedling: You can look my skills on my profile.
+    
+    - 📫You can reach me on discord : 7empest15
 
 
 
