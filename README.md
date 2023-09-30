@@ -15,4 +15,4 @@
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 
 
-
+![7empest15's GitHub stats](https://github-readme-stats.vercel.app/api?username=7empest15&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
