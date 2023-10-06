@@ -26,5 +26,9 @@ I am a young french developer
     
   - 📫You can reach me on discord : 7empest15
 
+---
 
+## 🚧 Skills
+
+  - Work in progress...
 
