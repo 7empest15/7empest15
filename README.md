@@ -1,15 +1,17 @@
 # Hello 👋, I'm 7empest15
 ### 42Lyon student.
 
-I am an IT student at 42Lyon. I am mainly a FiveM Developer.
-I started with Java on Minecraft, moved to lua with FiveM and currently studying C at 42.
+I am an IT student at 42Lyon.\
+I am mainly a FiveM Developer.\
+I started with Java on Minecraft, moved to lua with FiveM and currently studying C at 42.\
+Sometimes i create mods for Untiy Mono games (PEAK, R.E.P.O etc...)
 
 ## Contact Me
 <p><a href="https://x.com/7empest12" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> </p>
 
 ## Projects
 
-### Urban Pursuit (former)
+### Urban Pursuit (lead dev) (former)
 
 A french FiveM freeroam server.
 Top 1 french freeroam server several months.
