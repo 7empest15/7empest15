@@ -15,6 +15,8 @@ Sometimes i create mods for Unity Mono games (PEAK, R.E.P.O etc...)
 
 A french FiveM freeroam server.
 Top 1 french freeroam server several months.
++120 players
+100% custom core and base (all made by myself :)  )
 
 [View Project](https://discord.gg/urbanpursuit)
 
